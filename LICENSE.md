@@ -1,4 +1,6 @@
-# Statement on the Use of the Hexley Darwin Mascot Figure:
+# License
+
+Statement on the Use of the Hexley Darwin Mascot Figure:
 
 The Hexley Mascot is copyrighted by Jon Hooper. Usage of the mascot is permitted under the terms described below.
 
