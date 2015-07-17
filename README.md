@@ -1,5 +1,8 @@
 # Hexley
+
 Hexley is the mascot for Apple's open source operating system Darwin. Jon Hooper created the design which was then named after Darwin's assistant who was supposedly called Hexley.
+
+![hexley_turnaround_small](https://cloud.githubusercontent.com/assets/2480569/8752106/521ecf04-2cb2-11e5-85f4-76266a482497.gif)
 
 Welcome to to the homepage of "Hexley" the platypus. Hexley is the mascot for Apple's open source operating system Darwin. This mascot had its genesis on the Darwin-Developers mailing list. Various proposals were put forward by the members of the list, and after much lively discussion everyone settled on a Platypus. Jon Hooper created the design which was then named after Darwin's assistant who was supposedly called Hexley. Learn more about the mistaken identity of Hexley.
 
