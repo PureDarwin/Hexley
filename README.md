@@ -14,7 +14,7 @@ Apple has asked us to let people know that using an apple in conjunction with He
 
 Hexley was created in response to a query on the Darwin Developers mailing list that they needed a mascot. This was sometime in the year 2000. A web vote was taken of the various submissions and my platypus was chosen. Some of the other submissions included an Aqua Darwin fish and various devilish modifications of Clarus the DogCow.
 
-Once my platypus was chosen someone suggested that we use "Hexley" as the name of the new mascot since Darwin's assistant was named Hexley. It turns out we were wrong and the person we were referring to was actually Thomas Henry Huxley. Huxley was not Darwin's assistant but was a prominent English biologist in his own right. He was a vociferous defender of Darwin's theories, so much so that he was nick-named "Darwin's Bulldog".
+Once my platypus was chosen someone suggested that we use "Hexley" as the name of the new mascot since Darwin's assistant was named Hexley. It turns out we were wrong and the person we were referring to was actually Thomas Henry Huxley. Huxley was not Darwin's assistant but was a prominent English biologist in his own right. He was a vociferous defender of Darwin's theories, so much so that he was nick-named ["Darwin's Bulldog"](https://en.wikipedia.org/wiki/Thomas_Henry_Huxley).
 
 By the time we found out our mistake "Hexley" had escaped into the ether and we felt that it was to late to change the name to "Huxley".
 
