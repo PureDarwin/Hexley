@@ -4,7 +4,7 @@ The Hexley Mascot is copyrighted by Jon Hooper. Usage of the mascot is permitted
 
 Individuals may use the daemon for their personal use within the bounds of good taste.
 
-When reasonably possible, I would like the text "Hexley DarwinOS Mascot Copyright 2000 by Jon Hooper. All Rights Reserved.'' to be included.
+When reasonably possible, I would like the text "Hexley DarwinOS Mascot Copyright 2000 by Jon Hooper. All Rights Reserved." to be included.
 
 This text need not be etched into the figure or garishly displayed when using the mascot as say an Icon in a web frame. A good example of how to handle the due credit in a web page is to create a link from the mascot picture to the following text:
 
