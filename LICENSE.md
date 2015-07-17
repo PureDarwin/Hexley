@@ -19,7 +19,7 @@ Jon Hooper via email
 The only other restriction on the use of the logo is that I would prefer that the original designs be the ones that you use in order that the quality of the logo is not diluted.
 
 ## Permission to use Hexley for the PureDarwin project
-
+```
 From: Jon Hooper <...@...>
 Date: 21-May-2007 08:37
 Subject: Re: PureDarwin Mascot 
@@ -30,3 +30,4 @@ hey Tyson,
 No problem.  Sounds like a perfect use of Hexley.
 
 Hoops
+```
